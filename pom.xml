@@ -9,8 +9,8 @@
 
 	<properties>
 		<plugin.version>1.0</plugin.version>
-		<plugin.name>_PluginTemplate</plugin.name>
-		<plugin.name.lower>_plugintemplate</plugin.name.lower>
+		<plugin.name>BetterSimpleHomes</plugin.name>
+		<plugin.name.lower>bettersimplehomes</plugin.name.lower>
 
 		<plugin.author>chaseoes</plugin.author>
 		<plugin.groupID>com.chaseoes</plugin.groupID>
@@ -44,7 +44,7 @@
 	<repositories>
 		<repository>
 			<id>bukkit-repo</id>
-			<url>http://repo.bukkit.org/content/groups/public/</url>
+			<url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
 		</repository>
 	</repositories>
 
@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>org.bukkit</groupId>
 			<artifactId>bukkit</artifactId>
-			<version>1.7.9-R0.2</version>
+			<version>1.9-R0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>

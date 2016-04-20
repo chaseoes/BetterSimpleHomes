@@ -5,6 +5,10 @@ description: ${project.description}
 website: ${plugin.url}
 authors: [${plugin.author}]
 commands:
-  ${plugin.name.lower}:
+  home:
     description: A command for the ${plugin.name} plugin.
-    usage: /<command> [args]
+    usage: /<command>
+  sethome:
+    description: A command for the ${plugin.name} plugin.
+    usage: /<command>
+    
