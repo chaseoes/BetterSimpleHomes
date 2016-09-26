@@ -2,6 +2,8 @@
 
 A lightweight and simple Bukkit plugin (a Minecraft server mod) that adds /home functionality. Well-developed and bug free.
 
+Made on request in this Spigot thread: https://www.spigotmc.org/threads/simple-yet-bug-free-home.140350/
+
 ## Commands
 * **/sethome**: Set (or reset) your home location to where you're currently standing.
 * **/home**: Teleport back to the home location you set using the previous command.
